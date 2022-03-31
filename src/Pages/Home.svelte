@@ -10,12 +10,9 @@ import WhatsNewItem from "../PageComponets/WhatsNewList/WhatsNewItem.svelte";
     <p class="text-5xl font-bold headerFont ml-0 sm:ml-12">Whats new...</p>
     <WhatsNew>
         <WhatsNewItem>
-            <p class="text-3xl bold">A cool news headline about the server</p>
+            <p class="text-3xl bold">Website and server are in development!</p>
             <BetterHr />
-        </WhatsNewItem>
-        <WhatsNewItem>
-            <p class="text-3xl bold">A better news headline about the server</p>
-            <BetterHr />
+            <p>Our development team is working very hard to build the plugins for Realms to make it the best experience for the moderators and users, while that is happening, I am developing this website and plugins for the server</p>
         </WhatsNewItem>
     </WhatsNew>
 </div>
