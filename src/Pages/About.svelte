@@ -4,7 +4,7 @@
 
 <div class="">
     <div class="flex items-center flex-col">
-        <h1 class="text-5xl font-bold headerFont">The definitive GeoPol experience.</h1>
+        <h1 class="text-5xl w-72 md:w-auto font-bold headerFont">The definitive GeoPol experience.</h1>
 
         <div class="h-52">
             <img src="imgs/logo.png" alt="Big logo" class="h-full" />
