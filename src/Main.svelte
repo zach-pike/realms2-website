@@ -24,11 +24,13 @@ import { routes } from "./routes";
     </NavbarItem>
 
     <!-- Middle divider -->
-    <div style="flex-grow: 1;"></div>
+
+    <!-- Move discord logo out of navbar for now -->
+    <!-- <div style="flex-grow: 1;"></div>
 
     <NavbarItem url="https://discord.gg/7bExJDg3ZK">
         <img src="imgs/discord.png" alt="Logo" class="h-full"  />
-    </NavbarItem>
+    </NavbarItem> -->
 
 
 </Navbar>
