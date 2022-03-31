@@ -9,7 +9,7 @@
         <div class="h-52">
             <img src="imgs/logo.png" alt="Big logo" class="h-full" />
         </div>
-        <p class="w-9/12 md:w-6/12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium doloremque porro libero recusandae iusto, ea sed tenetur ad dignissimos consequatur voluptates pariatur laboriosam ullam distinctio culpa. Vel dolor odit consequuntur.</p>
+        <p class="w-11/12 md:w-6/12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium doloremque porro libero recusandae iusto, ea sed tenetur ad dignissimos consequatur voluptates pariatur laboriosam ullam distinctio culpa. Vel dolor odit consequuntur.</p>
     </div>
     
 </div>

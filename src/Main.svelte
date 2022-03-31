@@ -14,6 +14,10 @@ import { routes } from "./routes";
     <NavbarItem url="about">
         <p>About</p>
     </NavbarItem>
+    
+    <NavbarItem url="connect">
+        <p>Connect</p>
+    </NavbarItem>
 
     <NavbarItem url="contact">
         <p>Contact</p>
@@ -22,9 +26,10 @@ import { routes } from "./routes";
     <!-- Middle divider -->
     <div style="flex-grow: 1;"></div>
 
-    <NavbarItem url="https://discord.gg/7bExJDg3ZK" css="">
+    <NavbarItem url="https://discord.gg/7bExJDg3ZK">
         <img src="imgs/discord.png" alt="Logo" class="h-full"  />
     </NavbarItem>
+
 
 </Navbar>
 <div class="p-3">
