@@ -6,7 +6,7 @@
 </script>
 
 <div 
-    class="w-28 h-full flex items-center justify-center bg-white bg-opacity-0 hover:bg-opacity-75 duration-100 text-white"
+    class="w-28 h-full flex items-center justify-center bg-white bg-opacity-0 hover:bg-opacity-75 duration-100 text-white cursor-pointer"
     on:click={navigate}>
     <slot></slot>
 </div>

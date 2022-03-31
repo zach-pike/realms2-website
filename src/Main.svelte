@@ -18,7 +18,7 @@ import { routes } from "./routes";
     <NavbarItem url="contact">
         <p>Contact</p>
     </NavbarItem>
-    
+
 </Navbar>
 <div class="p-3">
     <Router routes={routes} />

@@ -2,8 +2,6 @@
 
 </script>
 
-<p>Some text for the home</p>
+<p>Home page</p>
 
-<style>
-    
-</style>
+<style></style>
