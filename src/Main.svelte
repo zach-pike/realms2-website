@@ -19,6 +19,13 @@ import { routes } from "./routes";
         <p>Contact</p>
     </NavbarItem>
 
+    <!-- Middle divider -->
+    <div style="flex-grow: 1;"></div>
+
+    <NavbarItem url="https://discord.gg/7bExJDg3ZK" css="">
+        <img src="imgs/discord.png" alt="Logo" class="h-full"  />
+    </NavbarItem>
+
 </Navbar>
 <div class="p-3">
     <Router routes={routes} />
